@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Akpevwe Obarakor 
+
+I’m a Data Analyst, currently working on projects ...
 
 <!--
 **Kpe-we/Kpe-we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
